@@ -2,7 +2,11 @@ Use 'npm install' to install the packages.
 
 Use "npm run dev" to run the server.
 
+
+
 API1
+
+
     > For user Register
     > Path:"/user/register"
     > method: POST
